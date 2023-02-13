@@ -1,14 +1,4 @@
 [![Work in MakeCode](https://classroom.github.com/assets/work-in-make-code-6e7adce1554a7ab3dcc1576f64e8295d66a6e534c2dcd2c9202df46736628f06.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9850250&assignment_repo_type=AssignmentRepo)
-## For your project, you will create a program that MUST include:
-* Functions with parameters and return values
-* Conditional Statements and Boolean Operators ("Selection" programming construct)
-* User Input
-* While Loops ("Iteration" programming construct)
-* An extension (either an existing extension, or one you create) 
----------------------------------------------
-> Open this page at [https://kroznai.github.io/u5-collaborative-coding-project/](https://kroznai.github.io/u5-collaborative-coding-project/)
-
-## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
